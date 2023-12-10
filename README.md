@@ -1,2 +1,2 @@
 # ADS labs
-Exercises on C++ language with algorithms and data structers elements 
+Exercises on C++ language with algorithms and data structures elements 
