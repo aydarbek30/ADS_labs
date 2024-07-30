@@ -1,3 +1,3 @@
 Algorithms & Data Structers laboratory works
 ---------
-ADS subject KBTU 
+ADS subject in KBTU (3 course)
