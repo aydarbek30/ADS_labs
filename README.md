@@ -1,3 +1,3 @@
-Algorithms & Data Structers laboratory works
+Algorithms & Data Structers exercises
 ---------
 ADS subject in KBTU (3 course)
